@@ -3,8 +3,8 @@ import "./globals.css";
 import { Providers } from "@/components/providers";
 
 export const metadata: Metadata = {
-  title: "TL Cockpit — Luxury Presence",
-  description: "PET Team · Team Leaders",
+  title: "PRO Cockpit — Luxury Presence",
+  description: "PRO Team · Team Leaders",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
